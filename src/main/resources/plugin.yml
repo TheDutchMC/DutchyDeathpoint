@@ -1,0 +1,11 @@
+name: DutchyDeathpoint
+main: nl.thedutchmc.dutchydeathpoint.Deathpoint
+version: 1.0.1
+api-version: 1.16
+author: TheDutchMC
+description: Get your deathpoint!
+commands:
+ deathpoint:
+  description: Get the location of where you died.
+ dp:
+  description: Does the same as /deathpoint
