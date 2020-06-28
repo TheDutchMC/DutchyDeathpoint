@@ -6,3 +6,4 @@ Deathpoints are saves across restarts!
 
 ## Commands
 * /deathpoint: Gives you the locatin and world where you last died.
+* /dp: Alias for /deathpoint
